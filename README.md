@@ -51,6 +51,7 @@ Installation Steps:
 
 1. Clone the repository:
 git clone https://github.com/lgope/the-wild-oasis.git
+
 2.Install the required dependencies:
 npm install
 3.Start the development server:
