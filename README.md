@@ -10,8 +10,8 @@ The purpose of my project is to implement my advanced JavaScript, TypeScript and
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Demo Account
---------------
+⭐️Demo Account
+
 
 username: admin@example.com
 
