@@ -30,3 +30,22 @@ Dashboard:
 Dark Preview Theme:
 <img width="1395" alt="Screenshot 2025-03-11 at 01 42 35" src="https://github.com/user-attachments/assets/a632ab2d-0d77-490e-b862-4f8b282889b9" />
 
+------------------------------------------------------
+
+Technologies Used:
+
+1. React
+2. Supabase
+3. @tanstack/react-query
+4. data-fns
+5. react-router-dom
+6. recharts
+7. styled components
+8. react-hot-toast
+9. react-icons
+10. react-hook-forms
+
+---------------------------------------------------------
+
+
+
