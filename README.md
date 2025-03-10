@@ -22,8 +22,10 @@ password: admin@example
 💫 Demonstration
 
 Login Page:
+![IMG_2139](https://github.com/user-attachments/assets/73c075f1-b3cf-44ad-901d-7a5baa7b61a2)
 
 Dashboard:
+![IMG_2140](https://github.com/user-attachments/assets/a9ba28b1-57c6-4fcd-ac38-8ac7dcafd47d)
 
 Dark Preview Theme:
 
