@@ -28,4 +28,5 @@ Dashboard:
 ![IMG_2140](https://github.com/user-attachments/assets/a9ba28b1-57c6-4fcd-ac38-8ac7dcafd47d)
 
 Dark Preview Theme:
+<img width="1395" alt="Screenshot 2025-03-11 at 01 42 35" src="https://github.com/user-attachments/assets/a632ab2d-0d77-490e-b862-4f8b282889b9" />
 
