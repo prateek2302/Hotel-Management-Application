@@ -16,3 +16,14 @@ The purpose of my project is to implement my advanced JavaScript, TypeScript and
 username: admin@example.com
 
 password: admin@example
+
+-----------------------------------------------
+
+💫 Demonstration
+
+Login Page:
+
+Dashboard:
+
+Dark Preview Theme:
+
