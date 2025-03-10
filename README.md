@@ -49,7 +49,7 @@ Technologies Used:
 
 Installation Steps:
 
-1. Clone the repository:   git clone https://github.com/lgope/the-wild-oasis.git
+1.Clone the repository:   git clone https://github.com/lgope/the-wild-oasis.git
 
 
 2.Install the required dependencies:  npm install
