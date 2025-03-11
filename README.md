@@ -26,7 +26,8 @@ password: admin@example
 Users of the app are hotel employees. They can logged in into the application to perform tasks.
 New users can only be signed up inside the applications (to guarantee that only actual hotel employees can get accounts).
 Users able to upload an avatar, and change their name and password
-Cabins
+
+****Cabins****
 
 The app has a table view with all cabins, showing the cabin photo, name, capacity, price, and current discount.
 Users able to update or delete a cabin, and create new cabins (including uploading a photo)
