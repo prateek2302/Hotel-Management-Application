@@ -93,16 +93,14 @@ Technologies Used:
 
 Installation Steps:
 
-1.Clone the repository:   git clone https://github.com/lgope/the-wild-oasis.git
+
+1.Install the required dependencies:  npm install
 
 
-2.Install the required dependencies:  npm install
+2.Start the development server:  npm run dev
 
 
-3.Start the development server:  npm run dev
-
-
-4.Access the application at:  http://localhost:5173 or Your Local URL
+3.Access the application at:  http://localhost:5173 or Your Local URL
 
 
 
