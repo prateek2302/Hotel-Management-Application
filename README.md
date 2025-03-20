@@ -13,9 +13,9 @@ The purpose of my project is to implement my advanced JavaScript, TypeScript and
 ⭐️Demo Account:
 
 
-username: admin@example.com
+Username: admin@example.com
 
-password: admin@example
+Password: admin@example
 
 -----------------------------------------------
 
