@@ -1,4 +1,4 @@
-**The Wild Oasis **
+**Hotel Management Application**
 
 ------------------------
 
