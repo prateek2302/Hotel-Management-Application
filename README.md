@@ -38,7 +38,7 @@ The app has a table view with all bookings, showing arrival and departure dates,
 The booking status can "unconfirmed" (booked but not yet checked in), "checked in", or "checked out". The table filterable by this important status.
 Other booking data includes: the number of guests, number of nights, guest observations, whether they booked breakfast, breakfast price.
 
-****Check in/out****
+****Check-in/Check-out****
 
 Users able to delete, check-in, or check out a booking as the guest arrives (no editing necessary for now).
 Bookings may not have been paid yet on guest arrival. Therefore, on check-in, users need to accept payment (outside the app), and then confirm that payment has been received (inside the app).
