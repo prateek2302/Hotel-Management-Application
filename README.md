@@ -60,7 +60,7 @@ A chart showing statistics on stay durations, as this is an important metric for
 
 Users able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking.
 
-****App dark mode****
+
 
 -------------------------------------------------------
 
