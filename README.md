@@ -8,7 +8,7 @@ features. And so much more!.
 
 The purpose of my project is to implement my advanced JavaScript, TypeScript and Database Query skills in a web application. Moreover my futher enhance my knowledge of ReactJS.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐️Demo Account:
 
