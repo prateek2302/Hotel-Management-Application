@@ -37,7 +37,8 @@ Users able to update or delete a cabin, and create new cabins (including uploadi
 The app has a table view with all bookings, showing arrival and departure dates, status, and paid amount, as well as cabin and guest data.
 The booking status can "unconfirmed" (booked but not yet checked in), "checked in", or "checked out". The table filterable by this important status.
 Other booking data includes: the number of guests, number of nights, guest observations, whether they booked breakfast, breakfast price.
-Check In/Out
+
+****Check in/out****
 
 Users able to delete, check-in, or check out a booking as the guest arrives (no editing necessary for now).
 Bookings may not have been paid yet on guest arrival. Therefore, on check-in, users need to accept payment (outside the app), and then confirm that payment has been received (inside the app).
